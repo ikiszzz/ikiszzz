@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikiszzz&label=Profile%20views&color=0e75b6&style=flat" alt="ikiszzz" /> </p>
 
-- • 🩺 I'm a **medical student**
+- 🩺 I'm a **medical student**
 
-- • 🖥️ I love to dev **`Discord Bots`.**
+- 🖥️ I love to dev **`Discord Bots`.**
 
-- • My Development Projects: **https://discord.gg/cu9KDqRgUh**
+- My Development Projects: **https://discord.gg/cu9KDqRgUh**
 
-- • I learned **Javascript and Python including other things related to these languages**
+- I learned **Javascript and Python including other things related to these languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
