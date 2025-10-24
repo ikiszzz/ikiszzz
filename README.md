@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikiszzz&label=Profile%20views&color=0e75b6&style=flat" alt="ikiszzz" /> </p>
 
+- • 🩺 I'm a **medical student**
+
+- • 🖥️ I love to dev **`Discord Bots`.**
+
+- • My Development Projects: **https://discord.gg/cu9KDqRgUh**
+
+- • I learned **Javascript and Python including other things related to these languages**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/cu9KDqRgUh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cu9KDqRgUh" height="30" width="40" /></a>
