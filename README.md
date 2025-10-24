@@ -1,6 +1,8 @@
 <h1 align="center">I'm IKIS</h1>
 <h3 align="center">A medical student from Bangladesh who loves to code. :)</h3>
 
+![Web](https://cdn.discordapp.com/attachments/1418907257042632797/1431237783648862250/long_banner.png?ex=68fcaf8e&is=68fb5e0e&hm=f6e0abfd64d57a06ac0df4153917122bc701d5d02799012c4205752f3d63ac32&)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikiszzz&label=Profile%20views&color=0e75b6&style=flat" alt="ikiszzz" /> </p>
 
 - 🩺 I'm a **medical student**
