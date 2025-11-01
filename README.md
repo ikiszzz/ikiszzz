@@ -1,7 +1,7 @@
 <h1 align="center">I'm IKIS</h1>
 <h3 align="center">A medical student from Bangladesh who loves to code. :)</h3>
 
-![Web](https://cdn.discordapp.com/attachments/1418907257042632797/1431237783648862250/long_banner.png?ex=68fcaf8e&is=68fb5e0e&hm=f6e0abfd64d57a06ac0df4153917122bc701d5d02799012c4205752f3d63ac32&)
+![Web](https://media.discordapp.net/attachments/1418907257042632797/1434010245297868910/long_banner.png?ex=6906c59d&is=6905741d&hm=3f507c420ddf56add9fa7ac046ad117b24f2bdeecc6bebcf61b72cdd1c1d3cdb&=&format=webp&quality=lossless&width=1470&height=172)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikiszzz&label=Profile%20views&color=0e75b6&style=flat" alt="ikiszzz" /> </p>
 
