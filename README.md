@@ -2,7 +2,7 @@
 ---
 <h3 align="center">A person who loves to code. :)</h3>
 
-![Web](https://media.discordapp.net/attachments/1431974190671724564/1436339307953655851/long_banner.png?ex=690f3eb8&is=690ded38&hm=68db7c07d83b41c8378d72e099004338cf4d9fae79b3d097df7df37240038c88&=&format=webp&quality=lossless&width=1872&height=219)
+![Web](https://github.com/ikiszzz/CHILO-DEVELOPMENT/blob/main/img/long%20banner.png?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikiszzz&label=Profile%20views&color=0e75b6&style=flat" alt="ikiszzz" /> </p>
 
