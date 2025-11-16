@@ -2,7 +2,7 @@
 ---
 <h3 align="center">A person who loves to code. :)</h3>
 
-![Web](https://github.com/ikiszzz/CHILO-DEVELOPMENT/blob/main/img/long%20banner.png?raw=true)
+![Web](https://github.com/ikiszzz/ikiszzz/blob/main/img/long%20banner.png?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikiszzz&label=Profile%20views&color=0e75b6&style=flat" alt="ikiszzz" /> </p>
 
